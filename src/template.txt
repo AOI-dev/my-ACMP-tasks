@@ -1,0 +1,8 @@
+public class Problem%i {
+    public static void main(String[] args) {
+        Scanner s = new Scanner(new FileReader("input.txt"));
+        PrintWriter pw = new PrintWriter("output.txt");
+        pw.print();
+        pw.close();
+    }
+}
