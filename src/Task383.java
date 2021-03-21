@@ -18,7 +18,5 @@ class Task383 {
                 break;
             }
         }
-
-
     }
 }
